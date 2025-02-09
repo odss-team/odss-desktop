@@ -1,3 +1,3 @@
-# odss-mobile-desktop
+# odss-desktop
 
-odss-mobile desktop app created by tauri2.0
+odss desktop app created by tauri2.0
